@@ -1,0 +1,20 @@
+{
+	"name": "create-discord-guild",
+	"version": "1.0.0",
+	"description": "CLI app to create a Discord guild using a bot account and giving yourself admin",
+	"main": "lib/index.js",
+	"type": "module",
+	"scripts": {
+		"start": "node ."
+	},
+	"author": "",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/zisra/create-discord-guild.git"
+	},
+	"bugs": {
+		"url": "https://github.com/zisra/create-discord-guild/issues"
+	},
+	"homepage": "https://github.com/zisra/create-discord-guild#readme"
+}
