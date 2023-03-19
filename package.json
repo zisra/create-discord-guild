@@ -1,9 +1,12 @@
 {
 	"name": "create-discord-guild",
-	"version": "1.1.0",
+	"version": "1.1.1",
 	"description": "CLI app to create a Discord guild using a bot account and giving yourself admin",
-	"main": "lib/index.js",
+	"main": "./lib/index.js",
 	"type": "module",
+	"bin": {
+		"create-discord-guild": "./lib/index.js"
+	},
 	"scripts": {
 		"start": "node ."
 	},

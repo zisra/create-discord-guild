@@ -2,7 +2,7 @@
 > **CLI app to create a Discord guild using a bot account and giving yourself admin**
 
 ## How it works
-The Discord API makes for a bot user to [create a guild](https://discord.com/developers/docs/resources/guild#create-guild) (server) if it is in less than 10 guilds. To run the CLI app, run `npx create-discord guild --bot-token <token>`. A new guild will be created and you will be able to join using the invite posted in the console. The bot then waits for you to join, and then grants you an admin role that you can customize with the options. 
+The Discord API makes for a bot user to [create a guild](https://discord.com/developers/docs/resources/guild#create-guild) (server) if it is in less than 10 guilds. To run the CLI app, run `npx create-discord-guild --bot-token <token>`. A new guild will be created and you will be able to join using the invite posted in the console. The bot then waits for you to join, and then grants you an admin role that you can customize with the options. 
 
 ## Caveats
 - The bot must be in less than 10 guilds. 
