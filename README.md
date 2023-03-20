@@ -24,7 +24,7 @@ Options:
   -r, --admin-role-name <name>         Set the admin role name
   -h, --admin-role-hoist <bool>        Whether to hoist the admin role or not
   -m, --admin-role-mentionable <bool>
-  -e --admin-role-emoji <emoji>        Admin role emoji (unicode)
+  -e, --admin-role-emoji <emoji>        Admin role emoji (unicode)
   --help                               display help for command
   ```
 
