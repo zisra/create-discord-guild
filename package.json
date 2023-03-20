@@ -23,5 +23,8 @@
 	"dependencies": {
 		"commander": "^10.0.0",
 		"ws": "^8.13.0"
+	},
+	"optionalDependencies": {
+		"node-fetch": "^3.3.1"
 	}
 }
